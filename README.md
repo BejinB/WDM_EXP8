@@ -111,3 +111,4 @@ visualize_product_data(products)
 ![image](https://github.com/user-attachments/assets/9820d6fa-dfc6-449c-b77d-5a9047449813)
 
 ### Result:
+Thus, The Web Scraping On E-commerce platform using BeautifulSoup is successfully executed
